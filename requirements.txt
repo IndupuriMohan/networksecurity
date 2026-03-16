@@ -3,6 +3,7 @@ pandas
 numpy
 pymongo
 certifi
+<<<<<<< HEAD
 pymongo[srv]
 scikit-learn
 mlflow
@@ -14,3 +15,7 @@ python-multipart
 
 
 ##-e .
+=======
+
+## -e .
+>>>>>>> 10064a7e02c6a3da0d08880cffa0b92588a4e450
