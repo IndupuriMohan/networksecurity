@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Network Security Projects For Phising Data
 
 Setup github secrets:
